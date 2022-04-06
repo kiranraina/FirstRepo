@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>notification_1.png</file>
+        <file>contact_1.png</file>
+        <file>chat_1.png</file>
+        <file>call_1.png</file>
+    </qresource>
+</RCC>

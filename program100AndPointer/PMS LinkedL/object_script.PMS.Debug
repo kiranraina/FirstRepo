@@ -1,0 +1,11 @@
+debug/Address.o
+debug/ECGHardware.o
+debug/ECGSensor.o
+debug/ECGDisplay.o
+debug/ECGLeads.o
+debug/ECGSystem.o
+debug/MyDate.o
+debug/PatientMonitoringSystem.o
+debug/Person.o
+debug/main.o
+debug/myLinkedList.o
