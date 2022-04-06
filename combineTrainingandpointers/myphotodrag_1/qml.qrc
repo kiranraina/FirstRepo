@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Test_TimestampInterval.png</file>
+    </qresource>
+</RCC>
