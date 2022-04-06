@@ -1,0 +1,11 @@
+release/Address.o
+release/ECGHardware.o
+release/ECGSensor.o
+release/ECGDisplay.o
+release/ECGLeads.o
+release/ECGSystem.o
+release/MyDate.o
+release/PatientMonitoringSystem.o
+release/Person.o
+release/main.o
+release/myLinkedList.o
