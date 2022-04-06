@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>temperature.png</file>
+        <file>sunny.png</file>
+        <file>speed.png</file>
+        <file>rain.png</file>
+        <file>gps.png</file>
+        <file>battery.png</file>
+        <file>person.jpeg</file>
+        <file>car.png</file>
+        <file>flag.png</file>
+        <file>personbg.png</file>
+    </qresource>
+</RCC>

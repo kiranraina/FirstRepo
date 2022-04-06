@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>dial.png</file>
+        <file>search.png</file>
+        <file>setting.png</file>
+        <file>calling.png</file>
+        <file>remove.png</file>
+    </qresource>
+</RCC>

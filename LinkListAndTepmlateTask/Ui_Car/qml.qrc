@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Row_rect1.qml</file>
+        <file>Row_react2.qml</file>
+        <file>Image/battery.png</file>
+        <file>Image/car.png</file>
+        <file>Image/flag.png</file>
+        <file>Image/gps.png</file>
+        <file>Image/person.jpeg</file>
+        <file>Image/personbg.png</file>
+        <file>Image/rain.png</file>
+        <file>Image/speed.png</file>
+        <file>Image/sunny.png</file>
+        <file>Image/temperature.png</file>
+        <file>Battery.qml</file>
+        <file>Weather.qml</file>
+        <file>Journey.qml</file>
+    </qresource>
+</RCC>
