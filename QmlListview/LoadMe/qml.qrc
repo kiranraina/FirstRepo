@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyMonitior.qml</file>
+        <file>MyHelp.qml</file>
+    </qresource>
+</RCC>

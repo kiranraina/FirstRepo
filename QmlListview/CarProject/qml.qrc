@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CarDelegate.qml</file>
+        <file>car3.jpeg</file>
+        <file>car1.jpeg</file>
+        <file>car2.jpeg</file>
+    </qresource>
+</RCC>

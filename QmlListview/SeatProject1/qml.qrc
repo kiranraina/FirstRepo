@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MySeatDelegate.qml</file>
+        <file>seat5.png</file>
+        <file>seat4.png</file>
+        <file>seat3.png</file>
+        <file>seat2.png</file>
+        <file>seat1.png</file>
+        <file>ListSeats.qml</file>
+    </qresource>
+</RCC>

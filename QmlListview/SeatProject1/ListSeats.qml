@@ -1,0 +1,33 @@
+import QtQuick 2.0
+
+ListModel{
+    id:list
+    ListElement{
+        index:1
+        bolster:43
+        position:1
+        image:"qrc:/seat1.png"
+        shoulder:3
+    }
+    ListElement{
+        index:2
+        bolster:86
+        position:4
+        image:"qrc:/seat2.png"
+        shoulder:3
+    }
+    ListElement{
+        index:3
+        bolster:98
+        position:1
+        image:"qrc:/seat3.png"
+        shoulder:3
+    }
+    ListElement{
+        index:4
+        bolster:63
+        position:2
+        image:"qrc:/seat4.png"
+        shoulder:3
+    }
+}

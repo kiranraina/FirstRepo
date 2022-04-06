@@ -1,0 +1,35 @@
+import QtQuick 2.0
+
+ListModel{
+    id:list
+    ListElement{
+        index:1
+        name:"ram"
+        age:20
+        gender:"male"
+    }
+    ListElement{
+        index:2
+        name:"raj"
+        age:20
+        gender:"male"
+    }
+    ListElement{
+        index:3
+        name:"rudra"
+        age:20
+        gender:"male"
+    }
+    ListElement{
+        index:4
+        name:"sanju"
+        age:20
+        gender:"male"
+    }
+    ListElement{
+        index:5
+        name:"sidda"
+        age:20
+        gender:"male"
+    }
+}

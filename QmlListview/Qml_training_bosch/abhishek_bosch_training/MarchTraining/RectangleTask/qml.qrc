@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Rectangles.qml</file>
+        <file>car.jpg</file>
+    </qresource>
+</RCC>

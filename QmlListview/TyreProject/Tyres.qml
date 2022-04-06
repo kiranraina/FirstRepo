@@ -1,0 +1,33 @@
+import QtQuick 2.0
+
+ListModel{
+    id:list
+    ListElement{
+        number:1
+        pressure:20
+        image:"qrc:/tyre3.png"
+        width:100
+        radius:10
+    }
+    ListElement{
+        number:2
+        pressure:30
+        image:"qrc:/tyre3.png"
+        width:250
+        radius:8
+    }
+    ListElement{
+        number:3
+        pressure:40
+        image:"qrc:/tyre3.png"
+        width:150
+        radius:15
+    }
+    ListElement{
+        number:4
+        pressure:50
+        image:"qrc:/tyre3.png"
+        width:240
+        radius:20
+    }
+}

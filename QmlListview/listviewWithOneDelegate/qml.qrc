@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>sunset.jpeg</file>
+        <file>sunny.jpeg</file>
+        <file>rainy.jpeg</file>
+        <file>cloudy.jpeg</file>
+        <file>backgroundImg.jpg</file>
+        <file>CityDelegate.qml</file>
+        <file>CurrentWeather.qml</file>
+        <file>WeatherDelegate.qml</file>
+    </qresource>
+</RCC>
